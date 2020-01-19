@@ -1,6 +1,6 @@
 # Myungji Jeong
 ![introduce_image](./images/IMG_3038.JPEG)
-![introsuce_image2](./images/IMG_0871.jepg)
+![introsuce_image2](./images/IMG_0871.jpeg)
 ## Where are you from?
 I am from Korea
 ## IT Interest
