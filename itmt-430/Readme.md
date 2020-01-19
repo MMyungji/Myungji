@@ -1,4 +1,10 @@
 # Myungji Jeong
-## I am from Korea
-## I am interested in web-server
-## I like traveling
+
+## Where are you from?
+I am from Korea
+## IT Interest
+I am interest in web-server
+## Something Interesting About You
+I like traveling
+## Git tutorial
+
