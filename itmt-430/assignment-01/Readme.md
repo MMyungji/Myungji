@@ -6,9 +6,9 @@ Class : IT-T 892(Smart Technologies) of Illinois Institute of Technology
 
 
 ## What is Simon Game?
-![simon1](./images/simon game.jpg)
+![simon1](./images/simon_game.jpg)
 
-![simon2](./images/simon game2.jpg)
+![simon2](./images/simon_game2.jpg)
 
 The device has four colored buttons, each producing a particular tone when it is pressed or activated by the device. A round in the game consists of the device lighting up one or more buttons in a random order, after which the player must reproduce that order by pressing the buttons. As the game progresses, the number of buttons to be pressed increases (speed up).
 
