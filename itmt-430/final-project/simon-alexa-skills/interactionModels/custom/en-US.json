@@ -1,0 +1,98 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "hey game",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "SimonIntent",
+          "slots": [],
+          "samples": [
+            "simon game"
+          ]
+        },
+        {
+          "name": "GameQueryIntent",
+          "slots": [],
+          "samples": [
+            "what game",
+            "what game can I play",
+            "What game do you have",
+            "What game can be played"
+          ]
+        },
+        {
+          "name": "InstructionsIntent",
+          "slots": [],
+          "samples": [
+            "how to play simon"
+          ]
+        },
+        {
+          "name": "MatchPatternIntent",
+          "slots": [
+            {
+              "name": "colorOne",
+              "type": "AMAZON.Color"
+            },
+            {
+              "name": "colorTwo",
+              "type": "AMAZON.Color"
+            },
+            {
+              "name": "colorThree",
+              "type": "AMAZON.Color"
+            },
+            {
+              "name": "colorFour",
+              "type": "AMAZON.Color"
+            }
+          ],
+          "samples": [
+            "{colorOne} {colorTwo} {colorThree} {colorFour}"
+          ]
+        },
+        {
+          "name": "PatternIntent",
+          "slots": [],
+          "samples": [
+            "start",
+            "go",
+            "start game",
+            "start simon"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "26"
+}
