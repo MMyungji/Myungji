@@ -1,6 +1,6 @@
 # Myungji Jeong
-![me_image](./images/me.JPEG)
-![lion_image](./images/lion.JPEG)
+![me_image](./Images/me.jpeg)
+![lion_image](./Images/lion.jpeg)
 
 
 ## Where are you from
@@ -13,7 +13,7 @@ I like creating something. I'm intersted in web-server and hardware.
 
 ## Something Intersting About You
 
-I like experience of new things. Especially, Traveling.
+I like experiencing new things. Especially, Traveling.
 
 ## Git tutorial
-![git](./images/git-it.png)
+![git](./Images/git-it.png)
